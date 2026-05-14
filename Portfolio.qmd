@@ -1,0 +1,167 @@
+---
+title: "Portfolio"
+format: html
+author: "Samreen Aulakh"
+date: "2026-05-13"
+output: html_document
+---
+
+```{r}
+#|label: setup
+#|include: FALSE
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#| label: load-packages
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+```
+
+```{r}
+#| label: load-data
+crevice <- read.csv("abcd/AbaloneCrevices445_2026 - Crevice data.csv")
+totals <- read.csv("abcd/AbaloneCrevices_445_InvertTransects_2026 - Transect Totals.csv")
+sizes <- read.csv("abcd/AbaloneCrevices_445_InvertTransects_2026 - Transect Sizes.csv")
+spatial <- read.csv("abcd/AbaloneCrevices_445_InvertTransects_2026 - Spatial.csv")
+validation <- read.csv("abcd/AbaloneCrevices_445_InvertTransects_2026 - Data Validation.csv")
+```
+
+```{r}
+#| label: selecting-columns-for-crevice-dataset
+crevice |>
+  select(1, 5:8)
+```
+
+```{r}
+#| label: selecting-columns-for-abalone-totals-dataset
+totals.ab <- totals |>
+   filter(Species == "H. cracherodii" ) |>
+  select(1,9:10)
+totals.ab
+```
+
+```{r}
+#| label: selecting-columns-for-abalone-sizes-dataset
+sizes.ab <- sizes |>
+     filter(Species == "H. cracherodii" ) |>
+  filter(Species == "H. cracherodii") |>
+  select(1,8,10:11,13:14) |> 
+   group_by(Site, Condition) |>
+   mutate(Condition = recode(Condition, "Mod" = "Moderate"))
+
+sizes.ab
+```
+
+```{r}
+#| label: boxplot-for-site-by-size-with-condition-as-fill
+ggplot(sizes.ab, aes(x = Site, y = Size..cm., fill = Condition)) +
+  geom_boxplot() +
+labs(title = "Number of Abalone at Sites in the Monterey Bay in 2023",
+x = "Site",
+y = "Number of Individuals") +
+  theme_light()
+```
+
+```{r}
+#| label: recode-moderate-condition
+sizes2026 <- sizes |> 
+  filter(Species == "H. cracherodii") |>
+  select(1,8,10:11,13:14) |> 
+   group_by(Site, Condition) |>
+   mutate(Condition = recode(Condition, "Mod" = "Moderate")) |> 
+  summarize(x = n()) |>
+  ungroup()
+```
+
+```{r}
+#| label: crevice-width-depth-2026
+#box plot for Site by Size with Condition as the Fill
+ggplot(sizes.ab, aes(x = Site, y = crevice_depth_cm, fill = Condition)) +
+  geom_boxplot() +
+labs(title = "Number of Abalone at Sites in the Monterey Bay in 2023",
+x = "Site",
+y = "Number of Individuals") +
+  theme_light() +  scale_fill_discrete(breaks = c("Good", "Moderate", "Bad"))
+
+ggplot(sizes.ab, aes(x = Site, y = crevice_width_cm, fill = Condition)) +
+  geom_boxplot() +  scale_fill_discrete(breaks = c("Good", "Moderate", "Bad"))
+```
+
+```{r}
+#| label: totals-2023
+totals23 <- read.csv("data/Transect_Totals_AbaloneAggregation_2023.csv") |>
+  filter(Species == "H. cracherodii") |>
+  select(1,9:10)
+totals23
+```
+
+```{r}
+#Transect Sizes/Condition
+sizes23 <- read.csv("data/Transect Sizes_AbaloneAggregation_2023.csv") |>
+  filter(Species == "H. cracherodii" ) |>
+  select(1,8,11:13,15)
+sizes23
+
+num23 <- read.csv("data/Transect Sizes_AbaloneAggregation_2023.csv") |>
+  filter(Species == "H. cracherodii" ) |>
+  select(1,3,8,11:13,15) |>
+ group_by(Site,Condition) |>
+  summarize(x = n()) |>
+  ungroup()
+```
+
+```{r}
+#Crevice Width/Depth 2023
+ggplot(sizes23, aes(x = Site, y = Crevice.Width..cm., fill = Condition)) +
+  geom_boxplot() +  scale_fill_discrete(breaks = c("Good", "Moderate", "Bad"))
+
+ggplot(sizes23, aes(x = Site, y = Crevice.Depth..cm., fill = Condition)) +
+  geom_boxplot() + scale_fill_discrete(breaks = c("Good", "Moderate", "Bad"))
+```
+
+```{r}
+#Transect Totals 2023/2026
+ggplot(totals23, aes(x = Site, y = Number, fill = Site)) +
+  geom_boxplot()
+ggplot(totals.ab, aes(x = Site, y = Number, fill = Site)) +
+  geom_boxplot()
+
+ggplot(num23, aes(x = Site, y = x, fill = Condition)) +
+         geom_col(position = "fill")  +  theme_test() +
+ scale_fill_discrete(breaks = c("Good", "Moderate", "Bad"))
+
+ggplot(sizes2026, aes(x = Site, y = x, fill = Condition)) +
+         geom_col(position = "fill") +
+    theme_test() +
+ scale_fill_discrete(breaks = c("Good", "Moderate", "Bad"))
+
+```
+
+```{r}
+#2026 Two-Way ANOVA Stats
+Depth_aov <- aov(crevice_depth_cm~Condition*Site, data = sizes.ab)
+summary(Depth_aov)
+
+TukeyHSD(Depth_aov)
+
+width_aov <- aov(crevice_width_cm~Condition*Site, data = sizes.ab)
+summary(width_aov)
+
+TukeyHSD(width_aov)
+```
+
+```{r}
+#2023 Two Way ANOVA Stats
+Depth23_aov <- aov(Crevice.Width..cm.~Condition*Site, data = sizes23)
+summary(Depth23_aov)
+
+TukeyHSD(Depth23_aov)
+
+width23_aov <- aov(Crevice.Depth..cm.~Condition*Site, data = sizes23)
+summary(width23_aov)
+
+TukeyHSD(width23_aov)
+```

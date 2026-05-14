@@ -1,0 +1,67 @@
+Site,Date,Transect,Start Lat,Start Long,End Lat ,End Long,Transect length (m),Species,Number of Individuals,Investigator,Checked By 
+Cannery Row,20170404,1,36.6137,121.8973,36.61391,121.89748,30,H. cracherodii,1,Kendall/Jessica ,
+Cannery Row,20170404,1,36.6137,121.8973,36.61391,121.89748,30,S. purpuratus,69,Kendall/Jessica ,
+Cannery Row,20170404,2,36.61399,121.89769,36.61383,121.89753,30,H. cracherodii,5,Lauren and Michelle,
+Cannery Row,20170404,2,36.61399,121.89769,36.61383,121.89753,30,S. purpuratus,11,Lauren and Michelle,
+Cannery Row,20170404,3,36.61401,121.8972,36.61424,121.8979,30,H. cracherodii,0,Kaelyn and Jordan,
+Cannery Row,20170404,3,36.61401,121.8972,36.61424,121.8979,30,S. purpuratus,11,Kaelyn and Jordan,
+Cannery Row,20170404,4,36.6143,121.89788,36.61457,121.89794,30,H. cracherodii,3,Jose and Austin ,
+Cannery Row,20170404,4,36.6143,121.89788,36.61457,121.89794,30,S. purpuratus,6,Jose and Austin ,
+Cannery Row,20170404,5,36.61441,121.89798,36.61459,121.89812,30,H. cracherodii,3,Jose and Austin ,
+Cannery Row,20170404,5,36.61441,121.89798,36.61459,121.89812,30,S. purpuratus,0,Jose and Austin ,
+Cannery Row,20170404,6,36.61331,121.89745,36.61306,121.89751,30,H. cracherodii,0,Courtney and Sarah P.,Courtney
+Cannery Row,20170404,6,36.61331,121.89745,36.61306,121.89751,30,S. purpuratus,4,Courtney and Sarah P.,Courtney
+Cannery Row,20170404,7,36.61447,121.89782,,,30,H. cracherodii,0,Kaelyn and Jordan,
+Cannery Row,20170404,7,36.61447,121.89782,,,30,S. purpuratus,200,Kaelyn and Jordan,
+Carmel Bay,20170226,1,36.5443,121.93372,36.54406,121.93382,30,H. cracherodii,8,Agnes and Jordan,
+Carmel Bay,20170226,1,36.5443,121.93372,36.54406,121.93382,30,S. purpuratus,0,Agnes and Jordan,
+Carmel Bay,20170226,3,36.54403,121.93371,36.54428,121.93359,30,H. cracherodii,0,Andy Michelle,
+Carmel Bay,20170226,3,36.54403,121.93371,36.54428,121.93359,30,S. purpuratus,0,Andy Michelle,
+Carmel Bay,20170226,4,36.54402,121.93382,36.54383,121.93402,30,H. cracherodii,5,Steven & Kendall,Brandy/Jessica/Kendall
+Carmel Bay,20170226,4,36.54402,121.93382,36.54383,121.93402,30,S. purpuratus,0,Steven & Kendall,Brandy/Jessica/Kendall
+Carmel Bay,20170226,5,36.54348,121.93408,36.54375,121.93399,30,H. cracherodii,3,Steven & Kendall,Brandy/Jessica/Kendall
+Carmel Bay,20170226,5,36.54348,121.93408,36.54375,121.93399,30,S. purpuratus,0,Steven & Kendall,Brandy/Jessica/Kendall
+Carmel Bay,20170226,6,,,36.54379,121.93397,30,H. cracherodii,10,Tishma & Allyson,
+Carmel Bay,20170226,6,,,36.54379,121.93397,30,S. purpuratus,0,Tishma & Allyson,
+Carmel Bay,20170226,7,36.5473,121.93406,36.5435,121.93414,30,H. cracherodii,3,Courtney and Brandy,
+Carmel Bay,20170226,7,36.5473,121.93406,36.5435,121.93414,30,S. purpuratus,0,Courtney and Brandy,
+Carmel Bay,20170226,8,36.54344,121.93406,36.5432,121.93387,30,H. cracherodii,1,Courtney and Brandy,
+Carmel Bay,20170226,8,36.54344,121.93406,36.5432,121.93387,30,S. purpuratus,0,Courtney and Brandy,
+Carmel Bay,20170307,9,36.54357,121.93422,36.54333,121.93412,30,H. cracherodii,11,Sarah P. and Evan,
+Carmel Bay,20170307,9,36.54357,121.93422,36.54333,121.93412,30,S. purpuratus,5,Sarah P. and Evan,
+Carmel Bay ,20170226,2,36.54347,121.93403,36.54324,121.93386,30,H. cracherodii,3,Agnes and Jordan,
+Carmel Bay ,20170226,2,36.54347,121.93403,36.54324,121.93386,30,S. purpuratus,0,Agnes and Jordan,
+Hopkins,20170210,1,36.62123,121.90358,36.62143,121.90379,30,H. cracherodii,2,Marlies & Sarah C,
+Hopkins,20170210,1,36.62123,121.90358,36.62143,121.90379,30,S. purpuratus,8,Marlies & Sarah C,
+Hopkins,20170210,2,36.62156,121.90351,36.62135,121.90334,30,H. cracherodii,2,Auston & Andy,
+Hopkins,20170210,2,36.62156,121.90351,36.62135,121.90334,30,S. purpuratus,27,Auston & Andy,
+Hopkins,20170210,3,36.62108,121.9027,36.62131,121.90344,30,H. cracherodii,1,Allyson & Michelle,
+Hopkins,20170210,3,36.62108,121.9027,36.62131,121.90344,30,S. purpuratus,0,Allyson & Michelle,
+Hopkins,20170210,4,36.62087,121.90336,36.62063,121.90323,30,H. cracherodii,2,Allyson &Michelle/ Auston & Andy ,
+Hopkins,20170210,4,36.62087,121.90336,36.62063,121.90323,30,S. purpuratus,0,Allyson &Michelle/ Auston & Andy ,
+Hopkins,20170210,5,36.62093,121.90339,36.62115,121.90356,30,H. cracherodii,0,Agnes/Lauren,Steven
+Hopkins,20170210,5,36.62093,121.90339,36.62115,121.90356,30,S. purpuratus,1,Agnes/Lauren,Steven
+Hopkins,20170210,6,36.62172,121.90464,36.62182,121.9049,30,H. cracherodii,0,Agnes/Lauren,Steven
+Hopkins,20170210,6,36.62172,121.90464,36.62182,121.9049,30,S. purpuratus,0,Agnes/Lauren,Steven
+Hopkins,20170210,7,36.62147,121.90385,36.62169,121.904,30,H. cracherodii,6,"Jose S, Nick H",
+Hopkins,20170210,7,36.62147,121.90385,36.62169,121.904,30,S. purpurarus,15,"Jose S, Nick H",
+Hopkins,20170210,8,36.6214,121.90379,36.62119,121.90358,30,H. cracherodii,2,"Jose S, Nick H",
+Hopkins,20170210,8,36.6214,121.90379,36.62119,121.90358,30,S. purpurarus,0,"Jose S, Nick H",
+Point Pinos,20170310,1,36.6377,121.93633,36.63785,121.93675,30,H. cracherodii,7,Marlies and Sarah,
+Point Pinos,20170310,1,36.6377,121.93633,36.63785,121.93675,30,S.purpuratus,12,Marlies and Sarah,
+Point Pinos,20170310,2,36.6377,121.93633,36.63756,121.93601,30,H. cracherodii,0,Lauren/Andy,Sarah C and Marlies
+Point Pinos,20170310,2,36.6377,121.93633,36.63756,121.93601,30,S. purpuratus,0,Lauren/Andy,Sarah C and Marlies
+Point Pinos,20170310,3,36.63764,121.93639,36.63754,121.93607,30,H. cracherodii,1,Jose and Brandy,
+Point Pinos,20170310,3,36.63764,121.93639,36.63754,121.93607,30,S. purpuratus,0,Jose and Brandy,
+Point Pinos,20170310,4,36.63791,121.93674,36.63815,121.93694,30,H. cracherodii,1,Joey and Steven,Sarah C and Marlies 
+Point Pinos,20170310,4,36.63791,121.93674,36.63815,121.93694,30,S. purpuratus,0,Joey and Steven,Sarah C and Marlies 
+Point Pinos,20170310,5,36.63819,121.93701,36.63843,121.93714,30,H. cracherodii,4,Kendall/Jessica ,
+Point Pinos,20170310,5,36.63819,121.93701,36.63843,121.93714,30,S. purpuratus,9,Kendall/Jessica ,
+Point Pinos,20170310,6,36.63844,121.93742,36.63842,121.93717,30,H. cracherodii,5,Joey and Steven,Sarah C and Marlies 
+Point Pinos,20170310,6,36.63844,121.93742,36.63842,121.93717,30,S. purpuratus,0,Joey and Steven,Sarah C and Marlies 
+Point Pinos,20170310,7,36.6384,121.93732,36.63845,121.93766,30,H. cracherodii,3,Jose and Brandy,
+Point Pinos,20170310,7,36.6384,121.93732,36.63845,121.93766,30,S. purpuratus,0,Jose and Brandy,
+Point Pinos,20170310,8,36.63844,121.93744,36.63855,121.93777,30,H. cracherodii,0,Lauren/Andy,Sarah C and Marlies
+Point Pinos,20170310,8,36.63844,121.93744,36.63855,121.93777,30,S. purpuratus,4,Lauren/Andy,Sarah C and Marlies
+Point Pinos,20170310,9,36.63843,121.93742,36.63855,121.9377,30,H. cracherodii,0,Joey and Steven,
+Point Pinos,20170310,9,36.63843,121.93742,36.63855,121.9377,30,S. purpuratus,6,Joey and Steven,

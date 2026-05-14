@@ -1,0 +1,97 @@
+Site,Date,Transect No,Lat (Start),Long (Start),Lat (End),Long (End),Transect Length,Species,Number,Investigators,Entered By,Checked By
+Cannery Row,20220228,1,36.61391N,121.89756W,36.61379N,121.89744W,20,S. purpuratus,1668,"Ethan S, Miranda Q, Cat G, Trinitie S",Trinitie S,Sam/Bella
+Cannery Row,20220228,2,36.61393 N,121.89755 W,36.61400 N,121.89779 W,20,S. purpuratus,1689,"Jenny M, Alex M, Lupe R, Sabrina P",Sabrina,Alex/Jenny
+Cannery Row,20220228,3,36.61402 N,121.89778 W,36.61417 N,121.89788 W,20,S. purpuratus,1078,"Eric H, Brenda B, Dustin J, Gabe M",Dustin,Alex/Jenny/Sam/Bella
+Cannery Row,20220228,4,36.61422N,121.89785W,36.61440N,121.8973W,20,S. purpuratus,1017,"Viviana V, Avianca D, Starr R, Chris S",Avianca D,Alex/Jenny
+Cannery Row,20220228,5,36.61442N,121.89790W,26.61452N,121.89774W,20,S. purpuratus,2835,"Daniel L, Annabella A, Liz A, Brain T",Daniel L,Sam/Bella
+Cannery Row,20220228,6,36.61452N,121.89774W,36.161456N,121.89793W,20,S. purpuratus,1514,"Hailey K, Makenna B, Sam P",Hailey K,Sam/Bella
+Carmel Point,20220216,1,36.54418 N,121.93373 W,36.54402 N,121.93382 W,20,S. purpuratus,870,"Samuel Perrello, Gabe Mercado, Dustin Johnson",Sam,Sam/Bella
+Carmel Point,20220216,2,36.54397N,121.93382W,36.54383N,121.93392W,20,S. purpuratus,118,"Sabrina, Eric, Francis, Jenny, Alex, Lupe",Sabrina,Sam/Bella
+Carmel Point,20220216,3,36.54382N,121.93400W,36.54370N,121.93414W,20,S. purpuratus,219,"Viviana V, Avianca D, Starr R, Brian T, Daniel L, Liz A",Brian T,Alex/Jenny
+Carmel Point,20220216,4,36.54369 N,121.93414 W,36.54351 N,121.93413 W,20,S. purpuratus,348,"Annabella A,Ethan S, Miranda Q, Cat G, Trinitie S, Chris S",Ethan,Sam/Bella
+Carmel Point,20220411,5,36.543333N,121.934167W,36.543333N,121.933889W,20,S. purpuratus,792,"Liz, Daniel Brian",Daniel L,Sam/Bella
+Carmel Point,20220411,6,36.543333N,121.933889W,36.543056N,121.933889W,20,S. purpuratus,640,"Hailey K, Makenna B, Brenda B",Makenna B,Sam/Bella
+Hopkins,20220314,1,36.62098N,121.90336W,36.62112N,121.90346W,20,S. purpuratus,1,"Viviana V, Avianca D, Starr R, Chris S",Avianca D,Alex/Jenny
+Hopkins,20220314,2,36.62115 N,121.90346 W,36.62129 N,121.9035W,20,S. purpuratus,9,"Eric, Francis, Sabrina",Sabrina,Alex/Jenny
+Hopkins,20220314,3,36.62115 N,121.90346 W,36.62129 N,121.9035W,20,S. purpuratus,135,"Samuel Perrello, Gabe Mercado, Dustin Johnson",Sam P,Alex/Jenny
+Hopkins,20220314,4,36.62136N,121.90363W,36.62151N,121.90372W,20,S. purpuratus,383," Makenna B, Liz A, Brenda B",Hailey K,Sam/Bella
+Hopkins,20220314,5,36.62150 N,121.90556 W,36.62160 N,121.90340 W,20,S. purpuratus,312,"Brian, Daniel, Annabella, Liz",Liz,Sam/Bella
+Hopkins,20220314,6,36.62138 N,121.90345 W,36.62124 N,121.90340 W,20,S. purpuratus,0,"Miranda Q, Trinitie S, Cat G, Ethan S",Trinitie S,Sam/Bella
+Pt Pinos,20220214,1,36.63766N,121.93630W,36.63778N,121.93636W,20,S. purpuratus,339,"Hailey K, Makenna B, Brenda B, Sam P, Gabe M, Dustin",Hailey K,Alex/Jenny
+Pt Pinos,20220214,2,36.63790N,121.93672W,36.63805N,121.93687W,20,S. purpuratus,627,"Ethan, Chris, Annabella",Ethan,Sam/Bella
+Pt Pinos,20220214,3,36.63806N,121.93687W,36.63891N,121.93697W,20,S. purpuratus,397,"Trinitie S, Miranda Q, Cat G, Eric, Sabrina P",Trinitie S,Alex/Jenny
+Pt Pinos,20220214,4,36.63829N,121.93700W,36.63843N,121.93715W,20,S. purpuratus,406,"Viviana V, Avianca D, Starr R, Brian T, Daniel L, Liz A",Viviana V,Sam/Bella
+Pt Pinos,20220302,5,36.63848N,121.93714W,36.63844N,121.93735W,20,S. purpuratus,1168,"Hailey K, Makenna B, Liz A, Brenda B",Hailey K,Sam/Bella
+Pt Pinos,20220302,6,36.63842N,121.93732W,36.63846N,121.93755W,20,S. purpuratus,384,"Viviana V, Avianca D, Starr R, Daniel L",Avianca D,Sam/Bella
+Cannery Row,20220228,1,36.61391N,121.89756W,36.61379N,121.89744W,20,S. franciscanus,1,"Ethan S, Miranda Q, Cat G, Trinitie S",Trinitie S,Sam/Bella
+Cannery Row,20220228,2,36.61393 N,121.89755 W,36.61400 N,121.89779 W,20,S. franciscanus,0,"Jenny M, Alex M, Lupe R, Sabrina P",Sabrina,Alex/Jenny
+Cannery Row,20220228,3,36.61402 N,121.89778 W,36.61417 N,121.89788 W,20,S. franciscanus,0,"Eric H, Brenda B, Dustin J, Gabe M",Dustin,Alex/Jenny/Sam/Bella
+Cannery Row,20220228,4,36.61422N,121.89785W,36.61440N,121.8973W,20,S. franciscanus,0,"Viviana V, Avianca D, Starr R, Chris S",Avianca D,Alex/Jenny
+Cannery Row,20220228,5,36.61442N,121.89790W,26.61452N,121.89774W,20,S. franciscanus,0,"Daniel L, Annabella A, Liz A, Brain T",Sam P,Sam/Bella
+Cannery Row,20220228,6,36.61452N,121.89774W,36.161456N,121.89793W,20,S. franciscanus,0,"Hailey K, Makenna B, Sam P",Hailey K,Sam/Bella
+Carmel Point,20220216,1,36.54418 N,121.93373 W,36.54402 N,121.93382 W,20,S. franciscanus,0,"Samuel Perrello, Gabe Mercado, Dustin Johnson",Sam,Sam/Bella
+Carmel Point,20220216,2,36.54397N,121.93382W,36.54383N,121.93392W,20,S. franciscanus,0,"Sabrina, Eric, Francis, Jenny, Alex, Lupe",Sabrina,Sam/Bella
+Carmel Point,20220216,3,36.54382N,121.93400W,36.54370N,121.93414W,20,S. franciscanus,0,"Viviana V, Avianca D, Starr R, Brian T, Daniel L, Liz A",Jenny,Alex/Jenny
+Carmel Point,20220216,4,36.54369 N,121.93414 W,36.54351 N,121.93413 W,20,S. franciscanus,0,"Annabella A, Ethan S, Miranda Q, Cat G, Trinitie S, Chris S",Ethan,Sam/Bella
+Carmel Point,20220411,5,36.543333N,121.934167W,36.543333N,121.933889W,20,S. franciscanus,0,"Liz, Daniel Brian",Daniel L,Sam/Bella
+Carmel Point,20220411,6,36.543333N,121.933889W,36.543056N,121.933889W,20,S. franciscanus,0,"Hailey K, Makenna B, Brenda B",Makenna B,Sam/Bella
+Hopkins,20220314,1,36.62098N,121.90336W,36.62112N,121.90346W,20,S. franciscanus,0,"Viviana V, Avianca D, Starr R, Chris S",Avianca D,Alex/Jenny
+Hopkins,20220314,2,36.62115 N,121.90346 W,36.62129 N,121.9035W,20,S. franciscanus,0,"Eric, Francis, Sabrina",Sabrina,Alex/Jenny
+Hopkins,20220314,3,36.62115 N,121.90346 W,36.62129 N,121.9035W,20,S. franciscanus,0,"Samuel Perrello, Gabe Mercado, Dustin Johnson",Sam P,Alex/Jenny
+Hopkins,20220314,4,36.62136N,121.90363W,36.62151N,121.90372W,20,S. franciscanus,0," Makenna B, Liz A, Brenda B",Hailey K,Sam/Bella
+Hopkins,20220314,5,36.62150 N,121.90556 W,36.62160 N,121.90340 W,20,S. franciscanus,1,"Brian, Daniel, Annabella, Liz",Liz,Sam/Bella
+Hopkins,20220314,6,36.62138 N,121.90345 W,36.62124 N,121.90340 W,20,S. franciscanus,0,"Miranda Q, Trinitie S, Cat G, Ethan S",Ethan,Sam/Bella
+Pt Pinos,20220214,1,36.63766N,121.93630W,36.63778N,121.93636W,20,S. franciscanus,0,"Hailey K, Makenna B, Brenda B, Sam P, Gabe M, Dustin",Hailey K,Alex/Jenny
+Pt Pinos,20220214,2,36.63790N,121.93672W,36.63805N,121.93687W,20,S. franciscanus,0,"Ethan, Chris, Annabella",Ethan,Sam/Bella
+Pt Pinos,20220214,3,36.63806N,121.93687W,36.63891N,121.93697W,20,S. franciscanus,0,"Trinitie S, Miranda Q, Cat G, Eric, Sabrina P",Trinitie S,Alex/Jenny
+Pt Pinos,20220214,4,36.63829N,121.93700W,36.63843N,121.93715W,20,S. franciscanus,0,"Viviana V, Avianca D, Starr R, Brian T, Daniel L, Liz A",Viviana V,Sam/Bella
+Pt Pinos,20220302,5,36.63848N,121.93714W,36.63844N,121.93735W,20,S. franciscanus,0,"Hailey K, Makenna B, Liz A, Brenda B",Hailey K,Sam/Bella
+Pt Pinos,20220302,6,36.63842N,121.93732W,36.63846N,121.93755W,20,S. franciscanus,,"Viviana V, Avianca D, Starr R, Daniel L",Avianca D,Sam/Bella
+Cannery Row,20220228,1,36.61391N,121.89756W,36.61379N,121.89744W,20,H. rufescens,0,"Ethan S, Miranda Q, Cat G, Trinitie S",Ethan,Sam/Bella
+Cannery Row,20220228,2,36.61393 N,121.89755 W,36.61400 N,121.89779 W,20,H. rufescens,0,"Jenny M, Alex M, Lupe R, Sabrina P",Sabrina,Alex/Jenny
+Cannery Row,20220228,3,36.61402 N,121.89778 W,36.61417 N,121.89788 W,20,H. rufescens,0,"Eric H, Brenda B, Dustin J, Gabe M",Dustin,Alex/Jenny/Sam/Bella
+Cannery Row,20220228,4,36.61422N,121.89785W,36.61440N,121.8973W,20,H. rufescens,0,"Viviana V, Avianca D, Starr R, Chris S",Avianca D,Alex/Jenny
+Cannery Row,20220228,5,36.61442N,121.89790W,26.61452N,121.89774W,20,H. rufescens,0,"Daniel L, Annabella A, Liz A, Brain T",Sam P,Sam/Bella
+Cannery Row,20220228,6,36.61452N,121.89774W,36.161456N,121.89793W,20,H. rufescens,0,"Hailey K, Makenna B, Sam P",Hailey K,Sam/Bella
+Carmel Point,20220216,1,36.54418 N,121.93373 W,36.54402 N,121.93382 W,20,H. rufescens,1,"Samuel Perrello, Gabe Mercado, Dustin Johnson",Sam,Sam/Bella
+Carmel Point,20220216,2,36.54397N,121.93382W,36.54383N,121.93392W,20,H. rufescens,0,"Sabrina, Eric, Francis, Jenny, Alex, Lupe",Sabrina,Sam/Bella
+Carmel Point,20220216,3,36.54382N,121.93400W,36.54370N,121.93414W,20,H. rufescens,0,"Viviana V, Avianca D, Starr R, Brian T, Daniel L, Liz A",Jenny,Alex/Jenny
+Carmel Point,20220216,4,36.54369 N,121.93414 W,36.54351 N,121.93413 W,20,H. rufescens,0,"Annabella A, Ethan S, Miranda Q, Cat G, Trinitie S, Chris S",Ethan,Sam/Bella
+Carmel Point,20220411,5,36.543333N,121.934167W,36.543333N,121.933889W,20,H. rufescens,0,"Liz, Daniel Brian",Daniel L,Sam/Bella
+Carmel Point,20220411,6,36.543333N,121.933889W,36.543056N,121.933889W,20,H. rufescens,0,"Hailey K, Makenna B, Brenda B",Makenna B,Sam/Bella
+Hopkins,20220314,1,36.62098N,121.90336W,36.62112N,121.90346W,20,H. rufescens,0,"Viviana V, Avianca D, Starr R, Chris S",Avianca D,Alex/Jenny
+Hopkins,20220314,2,36.62115 N,121.90346 W,36.62129 N,121.9035W,20,H. rufescens,0,"Eric, Francis, Sabrina",Sabrina,Alex/Jenny
+Hopkins,20220314,3,36.62115 N,121.90346 W,36.62129 N,121.9035W,20,H. rufescens,0,"Samuel Perrello, Gabe Mercado, Dustin Johnson",Sam P,Alex/Jenny
+Hopkins,20220314,4,36.62136N,121.90363W,36.62151N,121.90372W,20,H. rufescens,0," Makenna B, Liz A, Brenda B",Hailey K,Sam/Bella
+Hopkins,20220314,5,36.62150 N,121.90556 W,36.62160 N,121.90340 W,20,H. rufescens,0,"Brian, Daniel, Annabella, Liz",Liz,Sam/Bella
+Hopkins,20220314,6,36.62138 N,121.90345 W,36.62124 N,121.90340 W,20,H. rufescens,0,"Miranda Q, Trinitie S, Cat G, Ethan S",Ethan,Sam/Bella
+Pt Pinos,20220214,1,36.63766N,121.93630W,36.63778N,121.93636W,20,H. rufescens,0,"Hailey K, Makenna B, Brenda B, Sam P, Gabe M, Dustin",Hailey K,Alex/Jenny
+Pt Pinos,20220214,2,36.63790N,121.93672W,36.63805N,121.93687W,20,H. rufescens,2,"Ethan, Chris, Annabella",Ethan,Sam/Bella
+Pt Pinos,20220214,3,36.63806N,121.93687W,36.63891N,121.93697W,20,H. rufescens,0,"Trinitie S, Miranda Q, Cat G, Eric, Sabrina P",Trinitie S,Alex/Jenny
+Pt Pinos,20220214,4,36.63829N,121.93700W,36.63843N,121.93715W,20,H. rufescens,0,"Viviana V, Avianca D, Starr R, Brian T, Daniel L, Liz A",Viviana V,Sam/Bella
+Pt Pinos,20220302,5,36.63848N,121.93714W,36.63844N,121.93735W,20,H. rufescens,0,"Hailey K, Makenna B, Liz A, Brenda B",Hailey K,Sam/Bella
+Pt Pinos,20220302,6,36.63842N,121.93732W,36.63846N,121.93755W,20,H. rufescens,,"Viviana V, Avianca D, Starr R, Daniel L",Avianca D,Sam/Bella
+Cannery Row,20220228,1,36.61391N,121.89756W,36.61379N,121.89744W,20,H. cracherodii,0,"Ethan S, Miranda Q, Cat G, Trinitie S",Ethan,Sam/Bella
+Cannery Row,20220228,2,36.61393 N,121.89755 W,36.61400 N,121.89779 W,20,H. cracherodii,7,"Jenny M, Alex M, Lupe R, Sabrina P",Sabrina,Alex/Jenny
+Cannery Row,20220228,3,36.61402 N,121.89778 W,36.61417 N,121.89788 W,20,H. cracherodii,0,"Eric H, Brenda B, Dustin J, Gabe M",Dustin,Alex/Jenny/Sam/Bella
+Cannery Row,20220228,4,36.61422N,121.89785W,36.61440N,121.8973W,20,H. cracherodii,0,"Viviana V, Avianca D, Starr R, Chris S",Avianca D,Alex/Jenny
+Cannery Row,20220228,5,36.61442N,121.89790W,26.61452N,121.89774W,20,H. cracherodii,0,"Daniel L, Annabella A, Liz A, Brain T",Sabrina,Sam/Bella
+Cannery Row,20220228,6,36.61452N,121.89774W,36.161456N,121.89793W,20,H. cracherodii,0,"Hailey K, Makenna B, Sam P",Hailey K,Sam/Bella
+Carmel Point,20220216,1,36.54418 N,121.93373 W,36.54402 N,121.93382 W,20,H. cracherodii,26,"Samuel Perrello, Gabe Mercado, Dustin Johnson",Sam,Sam/Bella
+Carmel Point,20220216,2,36.54397N,121.93382W,36.54383N,121.93392W,20,H. cracherodii,7,"Sabrina, Eric, Francis, Jenny, Alex, Lupe",Sabrina,Sam/Bella
+Carmel Point,20220216,3,36.54382N,121.93400W,36.54370N,121.93414W,20,H. cracherodii,10,"Viviana V, Avianca D, Starr R, Brian T, Daniel L, Liz A",Brian T,Alex/Jenny
+Carmel Point,20220216,4,36.54369 N,121.93414 W,36.54351 N,121.93413 W,20,H. cracherodii,15,"Annabella A, Ethan S, Miranda Q, Cat G, Trinitie S, Chris S",Ethan,Sam/Bella
+Carmel Point,20220411,5,36.543333N,121.934167W,36.543333N,121.933889W,20,H. cracherodii,5,"Liz, Daniel Brian",Daniel L,Sam/Bella
+Carmel Point,20220411,6,36.543333N,121.933889W,36.543056N,121.933889W,20,H. cracherodii,5,"Hailey K, Makenna B, Brenda B",Makenna B,Sam/Bella
+Hopkins,20220314,1,36.62098N,121.90336W,36.62112N,121.90346W,20,H. cracherodii,0,"Viviana V, Avianca D, Starr R, Chris S",Avianca D,Chris
+Hopkins,20220314,2,36.62115 N,121.90346 W,36.62129 N,121.9035W,20,H. cracherodii,2,"Eric, Francis, Sabrina",Sabrina,Alex/Jenny
+Hopkins,20220314,3,36.62115 N,121.90346 W,36.62129 N,121.9035W,20,H. cracherodii,0,"Samuel Perrello, Gabe Mercado, Dustin Johnson",Sam P,Alex/Jenny
+Hopkins,20220314,4,36.62136N,121.90363W,36.62151N,121.90372W,20,H. cracherodii,0," Makenna B, Liz A, Brenda B",Hailey K,Sam/Bella
+Hopkins,20220314,5,36.62150 N,121.90556 W,36.62160 N,121.90340 W,20,H. cracherodii,4,"Brian, Daniel, Annabella, Liz",Liz,Sam/Bella
+Hopkins,20220314,6,36.62138 N,121.90345 W,36.62124 N,121.90340 W,20,H. cracherodii,0,"Miranda Q, Trinitie S, Cat G, Ethan S",Ethan,Sam/Bella
+Pt Pinos,20220214,1,36.63766N,121.93630W,36.63778N,121.93636W,20,H. cracherodii,0,"Hailey K, Makenna B, Brenda B, Sam P, Gabe M, Dustin",Hailey K,Alex/Jenny
+Pt Pinos,20220214,2,36.63790N,121.93672W,36.63805N,121.93687W,20,H. cracherodii,4,"Ethan, Chris, Annabella",Ethan,Sam/Bella
+Pt Pinos,20220214,3,36.63806N,121.93687W,36.63891N,121.93697W,20,H. cracherodii,0,"Trinitie S, Miranda Q, Cat G, Eric, Sabrina P",Trinitie S,Alex/Jenny
+Pt Pinos,20220214,4,36.63829N,121.93700W,36.63843N,121.93715W,20,H. cracherodii,3,"Viviana V, Avianca D, Starr R, Brian T, Daniel L, Liz A",Viviana V,Sam/Bella
+Pt Pinos,20220302,5,36.63848N,121.93714W,36.63844N,121.93735W,20,H. cracherodii,2,"Hailey K, Makenna B, Liz A, Brenda B",Hailey K,Sam/Bella
+Pt Pinos,20220302,6,36.63842N,121.93732W,36.63846N,121.93755W,20,H. cracherodii,3,"Viviana V, Avianca D, Starr R, Daniel L",Avianca D,Sam/Bella

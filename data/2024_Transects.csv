@@ -1,0 +1,47 @@
+Site,Date,Transect No,Lat (Start),Long (Start),Lat (End),Long (End),Transect Length,Species,Number,Investigators,Entered By,Checked By
+Cannery Row,20240411,1,36.61367,-121.89729,36.6139,-121.89755,20,S. purpuratus,360,"Ky, Summer",Arianna A,Moana
+Cannery Row,20240410,2,36.61378,-121.89739,36.1388,-121.89758,20,S. purpuratus,234,"Ky, Valeria, Arianna",Ilia,Summer V
+Cannery Row,20240411,3,36.6139,-121.89758,36.61401,-121.89774,20,S. purpuratus,204,"Ky, Summer, Maddie",Summer V,Ilia
+Cannery Row,20240410,4,36.61402,-121.89776,36.61414,-121.89788,20,S. purpuratus,58,"WM, LW, SS",Ky,Shannon
+Cannery Row,20240410,5,36.61419,-121.89785,36.61433,-121.8979,20,S. purpuratus,460,"WV, CW, SS",AD,
+Carmel Point,20240306,1,36.54418,-121.9338,36.54407,-121.93389,20,S. purpuratus,1734,"Ky M, Mackenzie C, Cindy D",Kenzie,
+Carmel Point,20240306,2,36.54407,-121.93389,36.543956,-121.93401,20,S. purpuratus,3827,"Autumn M,Ilia B, Karen N, Isaak H",Karen and Ilia,
+Carmel Point,20240306,3,36.54427,-121.93379,36.54412,-121.93385,20,S. purpuratus,2221,"Mariana J, Rosie M, Stephen G",,
+Carmel Point,20240412,4,36.54365,-121.93423,36.54261,-121.93422,20,S. purpuratus,1859,"Ilia, Solomon, Arianna",Rosie M,
+Carmel Point,20240412,5,36.54358,-121.93423,36.54341,-121.93416,20,S. purpuratus,1054,"Ilia, Soloman, Arianna",Shannon,Ky
+Carmel Point,20240412,6,36.54340,-121.93417,36.54329,-121.93403,20,S. purpuratus,270,"RM,SG",Valeria Silva,
+Hopkins,20240318,1,36.63752,-121.93015,36.62117,-121.9032,20,S. purpuratus,26,"Kenzie, Jacque, Cindy",Angela L,Arianna A
+Hopkins,20240318,2,36.62118,-121.90321,36.62128,-121.90338,20,S. purpuratus,12,"IB,ER,LW",Summer V,Ilia B
+Hopkins,20240318,3,36.62131,-121.90347,36.62143,-121.90333,20,S. purpuratus,2,"Cindy, Jacque, Kenzie",Lilah W,
+Hopkins,20240318,4,36.62115,-121.90322,36.62123,-121.90339,20,S. purpuratus,1,"Cindy, Jacque, Kenzie",Elizabeth R.,
+Hopkins,20240320,5,36.62152,-121.90387,36.62144,-121.90369,20,S. purpuratus,9,"Arianna Almquist, Jairo Gamez, Summer Voth",Jacque M,
+Hopkins,20240320,6,36.62167,-121.90373,36.621499,-121.903614,20,S. purpuratus,2,"Mackenzie, Cindy, Ky",Cindy,Ky M
+Hopkins,20240320,7,36.62172,-121.90382,36.62181,-121.90363,20,S. purpuratus,1,"RM, VS, ER",Maddie Heard,
+Pt Pinos,20240221,1,36.80478,-121.7888,36.63801,-121.93687,20,S. purpuratus,64,"Autumn M, Shannon S ",Autumn M. ,
+Pt Pinos,20240221,2,36.63803,-121.93865,36.63819,-121.193696,20,S. purpuratus,59,"Elizabeth R., Ilia B, Cindy D.",Rosie M.,
+Pt Pinos,20240310,3,36.637988,-121.93697,36.63832,-121.93697,20,S. purpuratus,11,"Valeria S, Soloman S",Summer V,
+Pt Pinos,20240221,4,36.63836,-121.93703,36.63845,-121.93719,20,S. purpuratus,189,"(0-5) & Autumn M, Shannon S (5-10) & (10-15) & (15-20) ",Autumn M. &,
+Pt Pinos,20240309,5,36.63846,-121.93721,36.63848,-121.93730,20,S. purpuratus,89,"Soloman S, Jaque M",Valeria S. ,
+Pt Pinos,20240309,6,36.63846,-121.93745,36.63853,-121.93766,20,S. purpuratus,158,"Soloman S, Jaque M",Alex D,
+Cannery Row,20240410,2,36.61378,-121.89739,36.1388,-121.89758,20,P. ochraceus,11,"Ky, Valeria, Arianna",Ilia,Summer V
+Cannery Row,20240411,3,36.6139,-121.89758,36.61401,-121.89774,20,P. ochraceus,1,"Ky, Summer, Maddie",Summer V,Ilia
+Cannery Row,20240410,4,36.61402,-121.89776,36.61414,-121.89788,20,P. ochraceus,1,"WM, LW, SS",Ky,Shannon
+Cannery Row,20240410,5,36.61419,-121.89785,36.61433,-121.8979,20,P. ochraceus,1,"WV, CW, SS",AD,
+Hopkins,20240320,7,36.62172,-121.90382,36.62181,-121.90363,20,P. ochraceus,2,"RM, VS, ER",Maddie Heard,
+Cannery Row,20240411,1,36.61367,-121.89729,36.6139,-121.89755,20,P. miniata,7,"Ky, Summer",Arianna A,Moana
+Carmel Point,20240306,1,36.54418,-121.9338,36.54407,-121.93389,20,P. miniata,25,"Ky M, Mackenzie C, Cindy D",Kenzie,
+Carmel Point,20240306,2,36.54407,-121.93389,36.543956,-121.93401,20,P. miniata,10,"Autumn M,Ilia B, Karen N, Isaak H",Karen and Ilia,
+Carmel Point,20240306,3,36.54427,-121.93379,36.54412,-121.93385,20,P. miniata,27,"MJ, Rosie, Stephen",,
+Carmel Point,20240412,4,36.54365,-121.93423,36.54261,-121.93422,20,P. miniata,5,"Ilia, Solomon, Arianna",Rosie M,
+Carmel Point,20240412,5,36.54358,-121.93423,36.54341,-121.93416,20,P. miniata,23,"Ilia, Soloman, Arianna",Shannon,Ky
+Carmel Point,20240412,6,36.54340,-121.93417,36.54329,-121.93403,20,P. miniata,16,"RM,SG",Valeria Silva,
+Pt Pinos,20240221,1,36.80478,-121.7888,36.63801,-121.93687,20,P. miniata,2,"Autumn M, Shannon S ",Autumn M. ,
+Pt Pinos,20240310,3,36.637988,-121.93697,36.63832,-121.93697,20,P. miniata,2,"Valeria S, Soloman S",Summer V,
+Pt Pinos,20240221,4,36.63836,-121.93703,36.63845,-121.93719,20,P. miniata,4,"Autumn M, Shannon S ",Autumn M.,
+Pt Pinos,20240309,5,36.63846,-121.93721,36.63848,-121.93730,20,P. miniata,7,"Soloman S, Jaque M",,
+Pt Pinos,20240309,6,36.63846,-121.93745,36.63853,-121.93766,20,P. miniata,8,"Solomon S, Jaque M",Alex D,
+Carmel Point,20240306,1,36.54418,-121.9338,36.54407,-121.93389,20,H. cracherodii,18,"Ky M, Mackenzie C, Cindy D",Kenzie,
+Carmel Point,20240306,2,36.54407,-121.93389,36.543956,-121.93401,20,H. cracherodii,7,"Autumn M,Ilia B, Karen N, Isaak H",Karen and Ilia,
+Carmel Point,20240412,5,36.54358,-121.93423,36.54341,-121.93416,20,H. cracherodii,5,"Ilia, Soloman, Arianna",Shannon,Ky
+Carmel Point,20240412,6,36.54340,-121.93417,36.54329,-121.93403,20,H. cracherodii,1,"RM,SG",Valeria Silva,
+Hopkins,20240318,1,36.63752,-121.93015,36.62117,-121.9032,20,H. cracherodii,4,"Kenzie, Jacque, Cindy",Angela L,Arianna A

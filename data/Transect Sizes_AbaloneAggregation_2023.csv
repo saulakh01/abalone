@@ -1,0 +1,149 @@
+Site,Date ,Transect,Start Lat,Start Long,End Lat ,End Long,Species,Status,Habitat,Crevice Depth (cm),Crevice Width (cm),Condition,Position (m),Size (cm),Investigator,Entered By
+Pt Pinos,20230306,2,36.63795 N,121.93669 W,36.63804 N , 121.93677W,H. cracherodii,Protected,C,10,7,Moderate,19,8,"Caitlin S, Mazie L",Mazie
+Pt Pinos,20230306,1,36.63756N,121.93589W,36.63767N,121.935671W,H. cracherodii,Protected,B,5,2.5,Bad,17,6,"Sophie, An, Emma, Alyssa",Henry
+Pt Pinos,20230306,1,36.63756N,121.93589W,36.63767N,121.935671W,H. cracherodii,Protected,B,45,7,Good,15,11,"Sophie, An, Emma, Alyssa",Henry
+Pt Pinos,20230306,1,36.63756N,121.93589W,36.63767N,121.935671W,H. cracherodii,Protected,B,55,6,Good,17,7,"Sophie, An, Emma, Alyssa",Henry
+Pt Pinos,20230306,1,36.63756N,121.93589W,36.63767N,121.935671W,H. cracherodii,Protected,B,55,6,Good,17,10,"Sophie, An, Emma, Alyssa",Henry
+Pt Pinos,20230306,1,36.63756N,121.93589W,36.63767N,121.935671W,H. cracherodii,Protected,B,15,5,Good,15,6,"Sophie, An, Emma, Alyssa",Henry
+Pt Pinos,20230306,1,36.63756N,121.93589W,36.63767N,121.935671W,H. cracherodii,Protected,B,15,5,Good,15,7,"Sophie, An, Emma, Alyssa",Henry
+Pt Pinos,20230306,1,36.63756N,121.93589W,36.63767N,121.935671W,H. cracherodii,Protected,R,15,2,Good,18.6,4,"Sophie, An, Emma, Alyssa",Henry
+Pt Pinos,20230320,3,36.63757N,121.93603W,36.63767N,121.93623W,H. cracherodii,Protected,R,20,8,Moderate,14,6,Emma & Sarah,Sarah
+Pt Pinos,20230320,3,36.63757N,121.93603W,36.63767N,121.93623W,H. cracherodii,Protected,R,20,8,Moderate,14,6,Emma & Sarah,Sarah
+Pt Pinos,20230320,3,36.63757N,121.93603W,36.63767N,121.93623W,H. cracherodii,Protected,R,20,8,Moderate,14,5,Emma & Sarah,Sarah
+Pt Pinos,20230320,4,36.638058N,121.936839W,36.63818N,121.93696W,H. cracherodii,Protected ,R,16,4,Moderate,15.6,10.5,Kaylee and Alyssa,Kaylee
+Pt Pinos,20230320,4,36.638058N,121.936839W,36.63818N,121.93696W,H. cracherodii,Protected ,R,30,15,Good,16.4,10,Kaylee and Alyssa,Kaylee
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,5,5,Bad,16.4,10,Gabby and Avery,Avery
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,10,5,Moderate,16.8,5,Gabby and Avery,Avery
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,10,5,Moderate,16.8,5,Gabby and Avery,Avery
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,10,5,Moderate,16.8,15,Gabby and Avery,Avery
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,150,7,Good,18.2,10,Gabby and Avery,Avery
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,150,7,Good,18.2,15,Gabby and Avery,Avery
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,150,7,Good,18.2,8,Gabby and Avery,Avery
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,150,7,Good,18.2,8,Gabby and Avery,Avery
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,150,7,Good,18.2,8,Gabby and Avery,Avery
+Pt Pinos,20230320,6,36.63837N,121.93705W,36.63850N,121.93721W,H. cracherodii,No,C,150,7,Good,18.2,8,Gabby and Avery,Avery
+Cannery Row,2020319,2,36.613780N,121.89746W ,36.61407N,121.89735W,H. cracherodii,No,B,35,60,Bad,11.4,15,Gabby and Gladys,Avery
+Cannery Row,2020319,2,36.613780N,121.89746W ,36.61407N,121.89735W,H. cracherodii,No,B,35,60,Bad,11.4,15,Gabby and Gladys,Avery
+Cannery Row,2020319,2,36.613780N,121.89746W ,36.61407N,121.89735W,H. cracherodii,No,R,20,15,Moderate,11.4,20,Gabby and Gladys,Avery
+Cannery Row,2020319,3,36.61407N,121.89774W,36.61407N,121.89747W,H. cracherodii,No,B,35,15,Good,4.9,4,Alison,Kaylee
+Cannery Row,2020319,3,36.61407N,121.89774W,36.61407N,121.89747W,H. cracherodii,No,B,35,15,Good,4.9,8,Alison,Kaylee
+Cannery Row,2020319,3,36.61407N,121.89774W,36.61407N,121.89747W,H. cracherodii,No,B,35,15,Good,4.9,6,Alison,Kaylee
+Cannery Row,2020319,3,36.61407N,121.89774W,36.61407N,121.89747W,H. cracherodii,No,B,35,15,Good,4.9,4,Alison,Kaylee
+Cannery Row,2020319,3,36.61407N,121.89774W,36.61407N,121.89747W,H. cracherodii,No,B,35,15,Good,4.9,5,Alison,Kaylee
+Cannery Row,2020319,3,36.61407N,121.89774W,36.61407N,121.89747W,H. cracherodii,No,B,40,10,Good,0.9,6,Alison,Kaylee
+Cannery Row,2020319,3,36.61407N,121.89774W,36.61407N,121.89747W,H. cracherodii,No,B,40,10,Good,0.9,11,Alison,Kaylee
+Cannery Row,2020319,3,36.61407N,121.89774W,36.61407N,121.89747W,H. cracherodii,No,B,20,5,Good,11.2,12,Alison,Kaylee
+Pt Pinos,20230320,3,36.63757N,121.93603W,36.63767N,121.93623W,H. cracherodii,Protected,R,20,8,Moderate,14,6,"Sarah, Brooke, Emma",Caitlin
+Pt Pinos,20230320,3,36.63757N,121.93603W,36.63767N,121.93623W,H. cracherodii,Protected,R,20,8,Moderate,14,6,"Sarah, Brooke, Emma",Caitlin
+Pt Pinos,20230320,3,36.63757N,121.93603W,36.63767N,121.93623W,H. cracherodii,Protected,R,20,8,Moderate,14,5,"Sarah, Brooke, Emma",Caitlin
+Hopkins,20230412,2,36.62113N,121.93603W,36.63767N,121.93623W,H. cracherodii,Protected,R,25,20,Bad,0.5,7,Kaylee and Mazie,Kaylee
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,20,5,Good,1.6,8,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,20,5,Good,1.6,8,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,20,5,Good,1.6,11,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,20,3,Good,3.9,7,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,15,3,Good,1.8,10,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,30,10,Moderate,8.1,11,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,30,10,Moderate,8.1,8,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,40,10,Good,8.9,15,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,40,10,Good,8.9,10,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,R,40,10,Good,8.9,6,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,20,5,Good,12.2,15,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,20,5,Good,12.2,14,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,20,5,Good,12.2,12,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,20,5,Good,12.2,16,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,20,5,Good,12.2,11,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,20,5,Good,12.2,11,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,20,5,Good,12.2,12,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,20,5,Good,12.2,6,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,20,5,Good,12.2,3,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,25,5,Good,13.7,6,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,1,36.54434N,121.93371W,36.54417N,121.93378W,H. cracherodii,Protected,B,25,5,Good,13.7,7,"Sarah, Gabe, Alison",Sarah
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,23,15,Good,2.7,10,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,23,15,Good,2.7,11,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,23,15,Good,2.7,12,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,23,15,Good,2.7,12,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,24,15,Good,4.9,12,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,24,15,Good,4.9,13,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,24,15,Good,4.9,11,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,NA,NA,NA,7.6,9,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,15,6,Good,9.4,10,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,10,7,Good,9.5,7,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,7.5,3.5,Moderate,10.6,3,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,7.5,3.5,Moderate,10.6,2.5,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,7.5,3.5,Moderate,10.6,2.5,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,7.5,3.5,Moderate,10.6,2.5,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,10,1.5,Moderate,10.9,2.5,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,10,1.5,Moderate,10.9,1.5,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,25,2.5,Moderate,13.2,2,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,15,6,Good,13.6,7,"Kaylee, Taylor, and Brooke",Kaylee
+Carmel Point,20230417,2,36.54415N,121.93379W,36.54398N,121.93384W,H. cracherodii,Protected,R,20,15,Moderate,18.7,10,"Kaylee, Taylor, and Brooke",Kaylee
+Hopkins,20230416,5,36.62154N,121.80350W,36.62174N,121.90360W,H. cracherodii,Protected,R,15,26,Bad,4,7,"Gladys,Caitlin",Gladys
+Hopkins,20230416,5,36.62154N,121.80350W,36.62174N,121.90360W,H. cracherodii,Protected,R,15,26,Bad,4,10,"Gladys,Caitlin",Gladys
+Hopkins,20230416,4,35.62136N,121.909331W,36.62153N,121.90334W,H. cracherodii,Protected,R,40,6,Good,16,1.9,Taylor and Brooke,Avery
+Hopkins,20230412,3,36.62121N,121.90324W,36.62104N,121.90323W,H. cracherodii,Protected,R,80,15,Good,7,5,Alison and Avery,Kaylee
+Hopkins,20230412,3,36.62121N,121.90324W,36.62104N,121.90323W,H. cracherodii,Protected,R,80,15,Good,7,8,Alison and Avery,Kaylee
+Hopkins,20230412,3,36.62121N,121.90324W,36.62104N,121.90323W,H. cracherodii,Protected,R,80,15,Good,7,4,Alison and Avery,Kaylee
+Hopkins,20230412,3,36.62121N,121.90324W,36.62104N,121.90323W,H. cracherodii,Protected,R,80,15,Good,7,13,Alison and Avery,Kaylee
+Hopkins,20230412,3,36.62121N,121.90324W,36.62104N,121.90323W,H. cracherodii,Protected,R,50,10,Good,13,14,Alison and Avery,Kaylee
+Hopkins,20230412,3,36.62121N,121.90324W,36.62104N,121.90323W,H. cracherodii,Protected,R,50,10,Good,13.5,10,Alison and Avery,Kaylee
+Hopkins,20230412,3,36.62121N,121.90324W,36.62104N,121.90323W,H. cracherodii,Protected,R,80,20,Good,17,12,Alison and Avery,Kaylee
+Hopkins,20230412,3,36.62121N,121.90324W,36.62104N,121.90323W,H. cracherodii,Protected,R,80,20,Good,17,14,Alison and Avery,Kaylee
+Hopkins,20230412,3,36.62121N,121.90324W,36.62104N,121.90323W,H. cracherodii,Protected,R,90,20,Bad,18,8,Alison and Avery,Kaylee
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,R,15,10,Moderate,3,10,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,R,15,10,Moderate,3,15,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,R,15,10,Bad,3,15,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,R,60,20,Good,4,10,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,R,60,20,Good,4,10,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,R,60,20,Good,4,15,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,R,60,20,Good,4,15,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,R,15,10,Good,2,15,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,R,55,20,Moderate,2,15,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,3,36.54369N,121.93389W,36.54384N,121.93401W,H. cracherodii,Protected,C,25,10,Good,20,12,"Sophie, Alyssa, Henry, Nick ",Sophie
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. cracherodii,Protected,Crevice,30,5,Good,19,10,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. cracherodii,Protected,Crevice,5,3,Bad,14.3,5,"GM, AM, AK, GC",AM
+Soberanes,20230422,1,36.452084N,121.929642W,36.45272N,121.92994W,H. cracherodii,Protected,Crevice,10,15,Moderate,5.4,10,"Sarah, Mazie, Cassidy, Amy",Sarah
+Soberanes,202304022,1,36.452084N,121.929642W,36.45272N,121.92994W,H. cracherodii,Protected,Crevice,10,10,Good,6,6,"Sarah, Mazie, Cassidy, Amy",Sarah
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,10,7,Moderate,3.2,5,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,11,10,Moderate,6,7,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,7,10,Bad,6.8,4,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,6,6,Moderate,8.2,4,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,15,10,Good,8.4,8,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,15,10,Good,8.4,9,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,15,10,Good,8.4,8,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,15,10,Good,8.4,3,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,15,18,Bad,10.9,8,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,25,20,Bad,13.8,5,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,8,15,Bad,13.7,7,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,30,20,Moderate,14.6,9,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,30,20,Moderate,14.6,9,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,30,20,Moderate,14.6,10,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,30,20,Moderate,14.6,5,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,5,5,Moderate,14.9,5,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,NA,NA,NA,15.8,8,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,10,10,Bad,19,9,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,10,5,Good,20,12,Kaylee and Emma ,Kaylee
+Soberanes,20230422,3,36.452407N,121.930027W,36.452514N,121.929839W,H. cracherodii,Protected,R,10,5,Good,20,11,Kaylee and Emma ,Kaylee
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,25,17,Bad,0.8,7,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,5,10,Bad,4.7,10,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,13,5,Good,6.5,10,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,13,5,Good,6.5,7,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,13,5,Good,6.5,2,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,12,10,Moderate,6.4,6,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,10,12,Bad,6.5,8,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,10,4,Moderate,11.3,8,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,25,7,Good,11.3,11,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,25,7,Good,11.3,2,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,5,7,Bad,14.2,3,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,15,7,Good,14.2,3,"An,Allison",Alyssa
+Soberanes,20230422,4,36.45239N,121.9300027W,36.452321N,121.9298390W,H. cracherodii,Protected,R,10,9,Moderate,16.7,9,"An,Allison",Alyssa
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,35,10,Good,14,15,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,25,3,Good,13.8,12,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,25,3,Good,13.8,12,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,25,5,Good,13.5,13,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,25,5,Good,13.5,13,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,40,4,Good,10.5,6,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,6,2,Moderate,3,4,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,5,2,Moderate,3,3,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,12,12,Bad,8.5,5,"GM, AM, AK, GC",AM
+Carmel Point,20230417,4,36.54384N,121.939404W,36.56372N,121.93417W,H. rufescens,Protected,Crevice,12,12,Bad,8.6,6,"GM, AM, AK, GC",AM
+Pt Pinos,20230320,5,,,36.63835N,121.93702W,,,,,,,,,,
