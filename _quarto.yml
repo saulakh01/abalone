@@ -1,21 +1,22 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Portfolio"
+  title: "Samreen Aulakh's ePortfolio"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: "Home"
+      - href: about.qmd
+        text: "About Me"
+      - href: abalone.qmd
+        text: "Example Project"
+        
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
 
 editor: visual
-
