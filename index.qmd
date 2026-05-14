@@ -2,17 +2,49 @@
 title: "Samreen Aulakh"
 about:
   template: jolla
-  image: jec-profile.jpg
   links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com
     - icon: github
       text: Github
       href: https://github.com/saulakh01
 ---
 
-This is a Quarto website.
+Samreen Aulakh is a student at California State University, Monterey Bay http://csumb.edu.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Education
 
-```{r}
-1 + 1
-```
+California State University, Monterey BayB.S. Marine Science
+
+Experience
+
+Coastal Dune Restoration Project:
+
+Fall 2023 - Spring 2024
+
+U.S. Fish & Wildlife Service, CA State Parks and Habitat Stewardship Project, Monterey Bay (HSP) joint effort in implementing ecosystem and habitat restoration efforts in the Monterey Bay region replanting native coastal dune plants, removal of iceplant. Continuation of restoration efforts ongoing since 2016.
+
+Habitat Stewardship Project, Monterey Bay:
+
+Fall 2024
+
+Refined science communication skills educating and leading individuals aged middle school and beyond, while directly restoring habitat in Monterey county.
+
+Society for the Prevention of Cruelty to Animals (SPCA) Monterey County:
+
+Fall 2022
+
+Caretaking of sheltered animals, site maintenance of SPCA, applied science communication with visitors and staff.
+
+Course-based Undergraduate Research Experience (CURE) Faculty Fellowship Program:
+
+Fall 2025
+
+Developed enhanced data analysis techniques, increased problem solving skills, furthered science communication, increased confidence in conducting rigorous research projects, created habits in reading about and participating in scientific research, learned to interact in more constructive ways with peers when discussing or conducting research.
+
+Estuary Monitoring of Battery Emissions and Residues (EMBER):
+
+Spring 2026
+
+Applied data collection and field procedures to help researchers and analysts better understand Elkhorn Slough battery fire impacts, worked in team setting, refined data collection techniques.

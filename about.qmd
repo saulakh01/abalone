@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+About Samreen
 
-```{r}
-1 + 1
-```
+Samreen is an undergraduate student interested in understanding ecosystem functions and services, and strives to implement conservation efforts in effective ways through research.
+
+There are a number of different ways she works towards improved conservation efforts, most of which include learning and better understanding the field of Marine Science, and the overarching biological sciences as a whole. Although Marine Science includes chemical and physical sciences as well, she is interested in the biological effect of the ocean and its rapidly changing conditions on the marine life that relies on it.
