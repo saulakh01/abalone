@@ -1,0 +1,18 @@
+---
+title: "Samreen Aulakh"
+about:
+  template: jolla
+  image: jec-profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/saulakh01
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
